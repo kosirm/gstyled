@@ -1,5 +1,7 @@
 # StyledBlog starter for Gatsby
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kosirm/gstyled.svg)](https://greenkeeper.io/)
+
 [DEMO website](https://gsbs.greglobinski.com/)
 
 ![](static/screens/demo-screencast.gif)
